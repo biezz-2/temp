@@ -1,0 +1,12 @@
+# Laporan verifikasi — episode1_ai_agent_postiz_FINAL.mp4
+- Mode: FINAL (mengikuti voiceover)
+- Durasi voiceover: 70.436 dtk  ->  target video: 73 dtk (4380 frame)
+- Durasi container hasil ekspor: 73.000 dtk
+- Frame terbaca: 4380 (harus 4380)
+- Video: h264 1080x1920 60/1 (avg 60/1) yuv420p
+- Audio: aac
+- Level audio: mean -18.5 dB, max -1.9 dB
+- Frame hitam: TERDETEKSI: 0-2.466667 | 12.25-12.683333 | 16.933333-18.266667 | 19.9-20.6 | 29.933333-31.55 | 35.733333-37.266667 | 40.666667-41.866667 | 45.416667-46.45 | 50.533333-51.15 | 59.15-60.216667 | 63.3-63.8
+- Frame beku >1,5 dtk: terdeteksi mulai detik 0 (cek: wajar bila itu jeda visual disengaja)
+- Metode timing kalimat: manifest TTS per kalimat (make_tts.py) -> timing eksak
+- HASIL: LULUS

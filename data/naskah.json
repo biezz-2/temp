@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "episode": 1,
+    "series": "SAAS OTOMASI",
+    "topic": "AI AGENT + POSTIZ",
+    "episode_title": "SATU BRIEF SEMUA CHANNEL"
+  },
+  "judul": "SaaS otomasi konten video: brief masuk, video keluar, posting otomatis",
+  "catatan": "1 kalimat = 1 scene; 15 scene di web/scenes.js. Tulis angka & singkatan sebagaimana diucapkan: 'S A A S' diucapkan huruf per huruf; 'Postiz' dibaca 'postis'; 'Temporal' dibaca 'temporal'.",
+  "sentences": [
+    {
+      "id": "hook",
+      "spoken": "Bayangkan brief pagi ini langsung jadi video, jadi voiceover, dan jadi postingan."
+    },
+    {
+      "id": "tanpa",
+      "spoken": "Tanpa editor, tanpa jadwal kacau, tanpa telat unggah."
+    },
+    {
+      "id": "definisi",
+      "spoken": "Mesin otomasi konten video yang kita bangun sebagai S A A S."
+    },
+    {
+      "id": "jalur",
+      "spoken": "Cara kerjanya cukup satu jalur mulus."
+    },
+    {
+      "id": "brief",
+      "spoken": "Pelanggan memberi satu topik atau brief singkat."
+    },
+    {
+      "id": "agent",
+      "spoken": "Agen AI melakukan riset, menulis naskah, lalu merekam voiceover."
+    },
+    {
+      "id": "render",
+      "spoken": "Hasilnya dirender jadi video vertikal, lengkap dengan caption per platform."
+    },
+    {
+      "id": "postiz",
+      "spoken": "Setiap video masuk ke Postiz, satu antrian untuk semua channel."
+    },
+    {
+      "id": "temporal",
+      "spoken": "Temporal mengatur jadwal, dan mencoba lagi otomatis kalau gagal."
+    },
+    {
+      "id": "channel",
+      "spoken": "Tiga channel siap duluan: YouTube, TikTok, dan Instagram."
+    },
+    {
+      "id": "puncak",
+      "spoken": "Lalu satu brief menyebar ke tiga puluh lebih platform dalam menit."
+    },
+    {
+      "id": "analytics",
+      "spoken": "Analytics dari setiap unggahan kembali ke satu dashboard."
+    },
+    {
+      "id": "fokus",
+      "spoken": "Kamu fokus ke produk, agen mengerjakan sisanya."
+    },
+    {
+      "id": "kalender",
+      "spoken": "Brief masuk, video keluar, kalender konten terisi setiap hari."
+    },
+    {
+      "id": "penutup",
+      "spoken": "Satu brief, semua channel terisi."
+    }
+  ]
+}
