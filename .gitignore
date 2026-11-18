@@ -1,0 +1,10 @@
+__pycache__/
+out/tts_cache/
+out/stills/
+out/sheets/
+out/qa_final/
+out/_video_only.mp4
+out/_sfx_track.wav
+out/build_log.txt
+.tts_key*
+.DS_Store
